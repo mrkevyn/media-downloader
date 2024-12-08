@@ -2,7 +2,7 @@
 Descrição do Aplicativo:
 Nome do Aplicativo: MediaDloader
 
-O MediaGrabber é um aplicativo de interface gráfica desenvolvido para facilitar o download de vídeos e áudios diretamente da internet. Através de uma interface simples e intuitiva, o usuário pode rapidamente baixar conteúdo de plataformas de streaming como YouTube, escolhendo entre os formatos de vídeo (MP4) ou áudio (MP3).
+O MediaDloader é um aplicativo de interface gráfica desenvolvido para facilitar o download de vídeos e áudios diretamente da internet. Através de uma interface simples e intuitiva, o usuário pode rapidamente baixar conteúdo de plataformas de streaming como YouTube, escolhendo entre os formatos de vídeo (MP4) ou áudio (MP3).
 
 Características:
 Download de Vídeos e Áudios: O aplicativo permite que você baixe vídeos no formato MP4 ou extraia áudios em MP3 com alta qualidade.
