@@ -1,5 +1,6 @@
 # media-downloader
 Descrição do Aplicativo:
+
 Nome do Aplicativo: MediaDloader
 
 O MediaDloader é um aplicativo de interface gráfica desenvolvido para facilitar o download de vídeos e áudios diretamente da internet. Através de uma interface simples e intuitiva, o usuário pode rapidamente baixar conteúdo de plataformas de streaming como YouTube, escolhendo entre os formatos de vídeo (MP4) ou áudio (MP3).
@@ -25,9 +26,10 @@ yt-dlp: Ferramenta de linha de comando usada para realizar o download de vídeos
 Descrição para o Repositório:
 Repositório: media-downloader
 
-Este repositório contém o código-fonte para o MediaDloader , uma ferramenta gráfica simples e poderosa que permite baixar vídeos e áudios de sites de streaming como YouTube. Com suporte a formatos MP4 e MP3, a aplicação é ideal para quem deseja salvar conteúdo multimídia para uso offline de maneira rápida e eficiente.
+Este repositório contém o código-fonte para o MediaDloader , uma ferramenta gráfica simples e poderosa que permite baixar vídeos e áudios do YouTube. Com suporte a formatos MP4 e MP3, a aplicação é ideal para quem deseja salvar conteúdo multimídia para uso offline de maneira rápida e eficiente.
 
 Funcionalidades:
+
 Baixar vídeos em MP4 com a melhor qualidade disponível (vídeo e áudio combinados).
 Extrair áudio em MP3 de vídeos com qualidade máxima.
 Interface Gráfica de Usuário (GUI) simples e intuitiva construída com Python, Tkinter e ttkbootstrap.
@@ -39,6 +41,7 @@ Como Usar:
 Instalação:
 
 Certifique-se de ter o Python instalado.
+
 Instale as dependências utilizando o comando:
 
 pip install ttkbootstrap yt-dlp
@@ -57,4 +60,7 @@ Clique em "Baixar" para iniciar o download.
 Acompanhe o progresso do download através da barra de progresso.
 Pré-requisitos:
 Python 3.x
+
 yt-dlp instalado no sistema (utilizado para capturar o conteúdo das URLs fornecidas).
+
+ffmpeg instalado no sistema
