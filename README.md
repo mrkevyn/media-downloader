@@ -23,9 +23,9 @@ Tkinter: Biblioteca padrão de Python para criação de interfaces gráficas.
 ttkbootstrap: Extensão do Tkinter para facilitar a criação de interfaces modernas e atrativas.
 yt-dlp: Ferramenta de linha de comando usada para realizar o download de vídeos e áudios de diversas plataformas online.
 Descrição para o Repositório:
-Repositório: media-downloader (exemplo)
+Repositório: media-downloader
 
-Este repositório contém o código-fonte para o MediaGrabber, uma ferramenta gráfica simples e poderosa que permite baixar vídeos e áudios de sites de streaming como YouTube. Com suporte a formatos MP4 e MP3, a aplicação é ideal para quem deseja salvar conteúdo multimídia para uso offline de maneira rápida e eficiente.
+Este repositório contém o código-fonte para o MediaDloader , uma ferramenta gráfica simples e poderosa que permite baixar vídeos e áudios de sites de streaming como YouTube. Com suporte a formatos MP4 e MP3, a aplicação é ideal para quem deseja salvar conteúdo multimídia para uso offline de maneira rápida e eficiente.
 
 Funcionalidades:
 Baixar vídeos em MP4 com a melhor qualidade disponível (vídeo e áudio combinados).
@@ -40,15 +40,13 @@ Instalação:
 
 Certifique-se de ter o Python instalado.
 Instale as dependências utilizando o comando:
-bash
-Copiar código
+
 pip install ttkbootstrap yt-dlp
 Executando o Aplicativo:
 
 Clone este repositório ou baixe o código.
 Execute o arquivo mediadloader.py:
-bash
-Copiar código
+
 python mediadloader.py
 Instruções de Uso:
 
