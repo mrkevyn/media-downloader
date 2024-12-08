@@ -58,7 +58,9 @@ Selecione o formato desejado (MP4 ou MP3).
 Escolha o diretório onde o arquivo será salvo.
 Clique em "Baixar" para iniciar o download.
 Acompanhe o progresso do download através da barra de progresso.
+
 Pré-requisitos:
+
 Python 3.x
 
 yt-dlp instalado no sistema (utilizado para capturar o conteúdo das URLs fornecidas).
