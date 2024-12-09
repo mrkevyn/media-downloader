@@ -45,12 +45,15 @@ Certifique-se de ter o Python instalado.
 Instale as dependências utilizando o comando:
 
 pip install ttkbootstrap yt-dlp
+
 Executando o Aplicativo:
 
 Clone este repositório ou baixe o código.
+
 Execute o arquivo mediadloader.py:
 
 python mediadloader.py
+
 Instruções de Uso:
 
 Insira a URL do vídeo ou áudio desejado.
